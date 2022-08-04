@@ -1,0 +1,11 @@
+{
+    "name": "Ian's Rules",
+    "description": "My custom rules",
+    "rules": [
+        {
+            "id": "AA0215",
+            "action": "None",
+            "justification": "Ignore file names error for renaming files."
+        }
+    ]
+}
